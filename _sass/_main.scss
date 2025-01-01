@@ -142,6 +142,7 @@ html[data-theme="dark"] {
 
 body {
 	font-family: -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+
 	line-height: 1.75;
 	color: var(--main-text-color);
 }
@@ -153,7 +154,6 @@ a {
 
 .post p {
 	margin: 1rem 0;
-  font-family: -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 }
 
 .meta {
@@ -234,7 +234,6 @@ blockquote {
 }
 
 h1 {
-  font-family: -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 	color: var(--main-text-color);
 	text-transform: uppercase;
 	font-size: 2rem;
@@ -246,7 +245,6 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 	font-weight: bold;
 	margin-bottom: 1.5rem;
 	font-size: 2rem;
@@ -356,6 +354,7 @@ main {
 	margin: -5rem auto 0;
 	padding: 2.4rem 2rem;
 	flex-direction: column;
+  -apple-system, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
 
