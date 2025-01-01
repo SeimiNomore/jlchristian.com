@@ -79,7 +79,7 @@ html[data-theme="light"] {
 	}
 }
 
-html[data-theme="dark"] {
+html[data-theme="light"] {
 	--text-font: Play;
 	--source-code-font: Source Code Pro;
 	--very-light-text-color: #EEE;
@@ -354,8 +354,8 @@ main {
 	margin: -5rem auto 0;
 	padding: 2.4rem 2rem;
 	flex-direction: column;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
 }
 
 
