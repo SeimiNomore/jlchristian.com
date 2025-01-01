@@ -25,7 +25,7 @@ author:
    # twitter username
    # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
-  email: your-email@email.com # email adress
+  email: mvd@email.com # email adress
 
 # Font Settings
 googlewebfonts: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"
