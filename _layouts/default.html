@@ -28,9 +28,9 @@ layout: compress
 
   <script>
     function setTheme(theme) {
-      if (theme === "dark") {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        window.localStorage.setItem('theme', 'dark');
+      if (theme === "light") {
+        document.documentElement.setAttribute('data-theme', 'light');
+        window.localStorage.setItem('theme', 'light');
         document.getElementById("theme-toggle").classList.add('sun');
         document.getElementById("theme-toggle").classList.remove('moon');
       } else {
@@ -43,17 +43,17 @@ layout: compress
 
     let theme = localStorage.getItem('theme');
 
-    theme = theme || (window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light' : 'light');
+    theme = theme || (window.matchMedia ? window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'light' : 'light');
 
     setTheme(theme);
 
     function modeSwitcher() {
       let currentMode = document.documentElement.getAttribute('data-theme');
 
-      if (currentMode === "dark") {
+      if (currentMode === "light") {
         setTheme('light');
       } else {
-        setTheme('dark');
+        setTheme('light');
       }
     }
   </script>
