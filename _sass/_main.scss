@@ -142,7 +142,7 @@ html[data-theme="dark"] {
 }
 
 body {
-	font-family: -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+	
 
 	line-height: 1.75;
 	color: var(--main-text-color);
@@ -170,10 +170,10 @@ pre {
 }
 
 code {
-	font-family: var(--source-code-font), monospace;
+	font-family: var(--source-code-font), -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";;
 	margin: unset;
 	padding: 0.1rem;
-	color: var(--highlight-text-color);
+	color: var(--highlight-text-color)
 }
 
 pre code {
