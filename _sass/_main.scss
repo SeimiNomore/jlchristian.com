@@ -236,6 +236,7 @@ blockquote {
 h1 {
 	color: var(--main-text-color);
 	text-transform: capitalize;
+  
 	font-size: 2rem;
 	font-weight: bold;
 	margin-bottom: 1.5rem;
@@ -354,8 +355,8 @@ main {
 	margin: -5rem auto 0;
 	padding: 2.4rem 2rem;
 	flex-direction: column;
-  padding-left: 45px;
-  padding-right: 45px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 
