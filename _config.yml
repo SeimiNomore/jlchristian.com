@@ -4,8 +4,8 @@ greetings: Hello there! 👋
 description: >-
   just a minimalist, personal blog
 lang: en-US
-timezone:  Europe/Rome
-repo: https://github.com/DavideBri/Gesko # site repo [optional]
+timezone:  United States/California
+repo: https://jlchristian.com # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: # replace with your disqus shortname
 comments-enabled: false # true to enable disqus comments, false to hide them
@@ -25,8 +25,8 @@ author:
 googlewebfonts: -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 
 # URL settings
-url: "https://DavideBri.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://jlchristian.com" # Domain Name of host. [username].github.io for github pages
+baseurl: "/" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
