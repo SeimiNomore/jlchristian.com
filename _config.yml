@@ -5,14 +5,14 @@ description: >-
  <h5>J.L. Christian - Portfolio</h5> 
  Explore a curated showcase of artistic mastery, offering:  
  <b>Commercial Art by J.L. Christian</b>
- Where creativity meets strategy—J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.
+ Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.
  
 
 
 lang: en-US
 timezone:  United States/California
 repo: https://jlchristian.com # site repo [optional]
-data-theme: light # default theme "dark" | "light"
+data-theme: "light" # default theme "dark" | "light"
 discus-identifier: # replace with your disqus shortname
 comments-enabled: false # true to enable disqus comments, false to hide them
 
