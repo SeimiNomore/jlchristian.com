@@ -143,7 +143,8 @@ html[data-theme="light"] {
 body {
 	font-family: var(--text-font), "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif,'Open Sans', Arial, sans-serif;
 	text-rendering: optimizeLegibility;
-	line-height: 1.75;
+	line-height: 1.56;
+  letter-spacing: 1.0;
 	color: var(--main-text-color);
 }
 
