@@ -23,7 +23,7 @@ author:
   email: your-email@email.com # email adress
 
 # Font Settings
-googlewebfonts: -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+googlewebfonts: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"
 
 # URL settings
 url: "https://jlchristian.com" # Domain Name of host. [username].github.io for github pages
