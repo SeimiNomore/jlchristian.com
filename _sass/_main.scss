@@ -487,12 +487,13 @@ color: #333;
     color: var(--main-text-color);
     -webkit-appearance: none;
     appearance: none;
-    background-color: rgba(128, 128, 128, 0.1);
-    border: 1px solid rgba(128, 128, 128, 0.1);
+    background-color: #8080801a;
+    border: 1px solid #8080801a;
     &::-webkit-input-placeholder {
-      color: #8264ee;
+      color: #393938;
     }
     &::-webkit-search-decoration,
+      color: #9e85dc; 
     &::-webkit-search-results-decoration {
       display: none;
     }
