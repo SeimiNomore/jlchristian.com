@@ -152,7 +152,8 @@ body {
 
 a {
 	color: var(--link-color);
-	text-decoration: none;
+	text-decoration: var(--medium-text-color);
+  font-weight: 400;
 }
 
 .post p {
