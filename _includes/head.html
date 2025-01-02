@@ -1,72 +1,52 @@
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover a clean and straightforward Jekyll blogging theme with our simple and minimal template. Github Pages ready, user-friendly design, easy to set up and low maintenance, letting you focus on creating content.">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Discover a clean and straightforward Jekyll blogging theme with our simple and minimal template. Github Pages ready, user-friendly design, easy to set up and low maintenance, letting you focus on creating content.">
 
-  
-    <link rel="icon" href="assets/img/favicon.ico" sizes="any">
-    <link rel="icon" href="assets/img/favicon-16x16.png" sizes="16x16" type="image/png">
-    <link rel="icon" href="assets/images/favicon-32x32.png" sizes="32x32" type="image/png">
-    <link rel="icon" href="assets/images/favicon-96x96.png" sizes="96x96" type="image/png">
-  
-    <title>
-      {% if page.tag or page.title %}
-        {% if page.tag %}
-          {{ page.tag | escape }}
-        {% else %}
-          {{ page.title | escape }}
-        {% endif %}
-        -
+  <!-- Favicon -->
+  <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="assets/img/favicon-16x16.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="assets/img/favicon-32x32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="assets/img/favicon-96x96.png" sizes="96x96" type="image/png">
+
+  <title>
+    {% if page.tag or page.title %}
+      {% if page.tag %}
+        {{ page.tag | escape }}
+      {% else %}
+        {{ page.title | escape }}
       {% endif %}
-      {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
-        Page {{ paginator.page }} of {{ paginator.total_pages }} -
-      {% endif %}
-      {{ site.title | escape }}
-      {% unless page.tag or page.title %}
-        - {{ site.description | escape }}
-      {% endunless %}
-    </title>
-  
+      -
+    {% endif %}
+    {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
+      Page {{ paginator.page }} of {{ paginator.total_pages }} -
+    {% endif %}
+    {{ site.title | escape }}
+    {% unless page.tag or page.title %}
+      - {{ site.description | escape }}
+    {% endunless %}
+  </title>
 
-   <!-- HTML Meta Tags -->
-<title> Portfolio - J.L. Christian - Portfolio. </title>
-<meta name="description" content="Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
+  <!-- Font Awesome for Social Icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://jlchristian.com">
-<meta property="og:type" content="website">
-<meta property="og:title" content=" Portfolio - J.L. Christian - Portfolio. ">
-<meta property="og:description" content="Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
-<meta property="og:image" content="https://opengraph.b-cdn.net/production/images/ef24db2e-91c0-4b58-af17-b3a8090903f3.png?token=B34Bpndnmsn1VLjzlnOo7myw0Z2LLoeRXue3Dw0ZrNU&height=316&width=500&expires=33271797733">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="jlchristian.com">
-<meta property="twitter:url" content="https://jlchristian.com">
-<meta name="twitter:title" content=" Portfolio - J.L. Christian - Portfolio. ">
-<meta name="twitter:description" content="Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
-<meta name="twitter:image" content="https://opengraph.b-cdn.net/production/images/ef24db2e-91c0-4b58-af17-b3a8090903f3.png?token=B34Bpndnmsn1VLjzlnOo7myw0Z2LLoeRXue3Dw0ZrNU&height=316&width=500&expires=33271797733">
-
-
-    <!-- Meta Tags Generated via https://www.opengraph.xyz -->
-  
-
-  
-    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
-    <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/feed.json" />
-    <link rel="sitemap" type="application/xml" title="sitemap" href="{{ site.url }}{{ site.baseurl }}/sitemap.xml" />
-      
-  {% if site.googlewebfonts %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?{{ site.googlewebfonts }}&display=swap" rel="stylesheet">
-  {% endif %}
-
+  <!-- Styles -->
   <style>
-    {% capture include_to_scssify %}
-      {% include inline.scss %}
-    {% endcapture %}
-    {{ include_to_scssify | scssify }}
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 15px 0;
+    }
+    .social-icons a {
+      margin: 0 10px;
+      color: #fff;
+      text-decoration: none;
+      font-size: 20px;
+    }
+    .social-icons a:hover {
+      color: #1e90ff;
+    }
   </style>
-
 </head>
+
