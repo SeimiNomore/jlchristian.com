@@ -492,8 +492,9 @@ color: #333;
     &::-webkit-input-placeholder {
       color: #393938;
     }
-    &::-webkit-search-decoration,
+    &::-webkit-search-decoration {
       color: #9e85dc; 
+    }
     &::-webkit-search-results-decoration {
       display: none;
     }
