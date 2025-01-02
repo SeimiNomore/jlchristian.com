@@ -5,7 +5,6 @@
 	background-color: #f4f4f4;
 	color: #393938;
 	margin: 0;
-	padding: 0;
 }
 
 html {
@@ -90,7 +89,7 @@ html[data-theme="light"] {
 	--highlight-text-color: #6cb4a0;
 	--dark-text-color: rgb(36, 38, 42);
 	--link-color: #626b74;
-	--code-bg-color: rgb(36, 38, 42);
+	--code-bg-color: #f4f4f4;
 	background-color: #f4f4f4;
 
 	#theme-toggle div {
