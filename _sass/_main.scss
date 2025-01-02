@@ -318,7 +318,14 @@ b {
 .post ul {
 	margin: 0px;
 	margin: 0px 0px 10px 10px;
+
 }
+
+.post li a:hover {
+  font-weight: 256;
+  color:#393e46;
+}
+
 
 .post ol {
 	margin: 0px;
