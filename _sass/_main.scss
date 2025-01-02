@@ -156,7 +156,7 @@ body {
 a {
 	color: var(--link-color);
 	text-decoration: var(--medium-text-color);
-  font-weight: 632;
+  font-weight: 500;
   font-size: 1.0rem;
 }
 
@@ -345,7 +345,7 @@ b {
 	padding-left: 1rem;
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
-  letter-spacing: 0.00rem
+  letter-spacing: 0.00rem;
 }
 
 time {
@@ -449,6 +449,7 @@ figcaption {
 .bio {
 	margin-bottom: 7rem;
   color: #393938;
+  font-weight: 300;
 }
 
 ::selection {
