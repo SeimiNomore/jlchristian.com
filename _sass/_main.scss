@@ -520,15 +520,20 @@ color: #333;
   margin-top: 0;
   border-top: 2px solid var(--light-text-color);
   line-height: 1.4;
+    }
 
   .post-nav-item {
     border-bottom: 0;
     padding-bottom: 10px;
     color: #878c91;
     font-size: 10.2px
-    
+
     .post-title {
       color: var(--main-text-color);
+      width: 50%;
+    padding-top: 10px;
+    text-decoration: none;
+    box-sizing: border-box;
     }
 
     &:hover,
@@ -546,10 +551,7 @@ color: #333;
 	  font-weight: bold;
     }
 
-    width: 50%;
-    padding-top: 10px;
-    text-decoration: none;
-    box-sizing: border-box;
+    
 
     &:nth-child(odd) {
       padding-left: 0;
@@ -561,8 +563,10 @@ color: #333;
       padding-right: 0;
       padding-left: 20px;
     }
-  }
-} 	
+  
+
+
+
 
 
 .tags ul {
