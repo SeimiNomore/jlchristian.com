@@ -2,8 +2,8 @@
 :after,
 :before {
 	box-sizing: border-box;
-	background-color: inherit;
-	color: inherit;
+	background-color: #fdfcff;
+	color: #55544c;
 	margin: 0;
 	padding: 0;
 }
@@ -265,6 +265,7 @@ h5 {
 
 h2 {
 	font-size: 1.8rem;
+  font-weight: 400;
 }
 
 h3 {
@@ -277,6 +278,7 @@ h4 {
 
 h5 {
 	font-size: 1.2rem;
+  font-weight: 700;
 }
 
 h6 {
@@ -289,7 +291,7 @@ section h1:first-child {
 
 strong,
 b {
-	font-weight:300;
+	font-weight:700;
 }
 
 .photos ul {
@@ -344,6 +346,7 @@ b {
 
 time {
 	color: var(--main-text-color);
+  color: #b2aaaa;
 }
 
 .post > h1.title {
