@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Explore a curated showcase of artistic mastery, offering: Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
+  <meta name="description" content="Discover a clean and straightforward Jekyll blogging theme with our simple and minimal template. Github Pages ready, user-friendly design, easy to set up and low maintenance, letting you focus on creating content.">
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/syntax.css">
   <link rel="preconnect" href="https://cdnjs.cloudflare.com">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -31,24 +31,43 @@
   
 
     <!-- HTML Meta Tags -->
-    <title> Portfolio - J.L. Christian - Portfolio. Explore a curated showcase of artistic mastery, offering: Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.</title>
-    <meta name="description" content="Explore a curated showcase of artistic mastery, offering: Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
+    <title> Portfolio - J.L. Christian - Portfolio. Explore a curated showcase of artistic mastery, offering: <b>Commercial Art by J.L. Christian</b> Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.</title>
+    <meta name="description" content="Discover a clean and straightforward Jekyll blogging theme with our simple and minimal template. Github Pages ready, user-friendly design, easy to set up and low maintenance, letting you focus on creating content.">
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://jlchristian.com">
     <meta property="og:type" content="website">
-    <meta property="og:title" content=" Portfolio - J.L. Christian - Portfolio. Explore a curated showcase of artistic mastery, offering: Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
-    <meta property="og:description" content="Explore a curated showcase of artistic mastery, offering: Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
-    <meta property="og:image" content="https://jlchristian.com/android-chrome-512x512.png">
+    <meta property="og:title" content=" Portfolio - J.L. Christian - Portfolio. Explore a curated showcase of artistic mastery, offering: <b>Commercial Art by J.L. Christian</b> Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
+    <meta property="og:description" content="Discover a clean and straightforward Jekyll blogging theme with our simple and minimal template. Github Pages ready, user-friendly design, easy to set up and low maintenance, letting you focus on creating content.">
+    <meta property="og:image" content="android-chrome-512x512.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="jlchristian.com">
     <meta property="twitter:url" content="https://jlchristian.com">
-    <meta name="twitter:title" content=" Portfolio - J.L. Christian - Portfolio. Explore a curated showcase of artistic mastery, offering: Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
-    <meta name="twitter:description" content="Explore a curated showcase of artistic mastery, offering: Commercial Art by J.L. Christian Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
-    <meta name="twitter:image" content="https://jlchristian.com/android-chrome-512x512.png">
+    <meta name="twitter:title" content=" Portfolio - J.L. Christian - Portfolio. Explore a curated showcase of artistic mastery, offering: <b>Commercial Art by J.L. Christian</b> Where creativity meets strategy— J.L. Christian specializes in branding, campaigns, and custom designs that bring ideas to life. With a focus on impactful visuals and innovative solutions, each project is tailored to tell a story.">
+    <meta name="twitter:description" content="Discover a clean and straightforward Jekyll blogging theme with our simple and minimal template. Github Pages ready, user-friendly design, easy to set up and low maintenance, letting you focus on creating content.">
+    <meta name="twitter:image" content="/android-chrome-512x512.png">
 
-<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+    <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+  
 
-<!-- Meta Tags
+  
+    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/favicon.png">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
+    <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/feed.json" />
+    <link rel="sitemap" type="application/xml" title="sitemap" href="{{ site.url }}{{ site.baseurl }}/sitemap.xml" />
+      
+  {% if site.googlewebfonts %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?{{ site.googlewebfonts }}&display=swap" rel="stylesheet">
+  {% endif %}
+
+  <style>
+    {% capture include_to_scssify %}
+      {% include inline.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
+
+</head>
