@@ -155,15 +155,13 @@ body {
 a {
 	color: var(--link-color);
 	text-decoration: var(--medium-text-color);
-  font-weight: 500;
-  font-size: 1.0rem;
+  
 }
 
-a:hover, a:focus {
+a:hover {
   color: #493d60;
   background-color: #e8defd ;
-  font-weight: 386;
-  font-size: 1.0rem;
+  
 }
 
 .post p {
@@ -291,10 +289,6 @@ h6 {
   font-weight: 250;
 }
 
-h7 {
-	font-size: 0.1rem;
-  font-weight: 500;
-}
 
 .codexer {
   font-weight: 500;
