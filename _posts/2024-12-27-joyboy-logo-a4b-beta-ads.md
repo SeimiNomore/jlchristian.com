@@ -21,7 +21,7 @@ Designing the ads felt almost effortless, as if they naturally followed the path
 
 Seeing these ads come together was like watching the first spark of a much bigger fire. This is only the beginning, but I can already feel the momentum building.
 
-![diveinekids-a4b.png](assets/img/divinekids-a4b.png)
+![diveinekids-a4b.png](/assets/img/divinekids-a4b.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
