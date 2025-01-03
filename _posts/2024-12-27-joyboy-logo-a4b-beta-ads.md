@@ -10,7 +10,7 @@ It all started with an idea—a fleeting spark fueled by my love for storytellin
 
 The first ads I designed became my way of channeling that inspiration into something real. It wasn’t about following trends or making noise—it was about staying true to myself and letting my creativity take the lead. This was where the journey began.
 
-![kid oreo2](//assets/img/kid-oreo2.png)
+![kid oreo2](/assets/img/kid-oreo2.png)
 **A4B! Kid Oreo 2** Advertisement - 2007 / Feb.
 
 ---
@@ -21,7 +21,7 @@ Designing the ads felt almost effortless, as if they naturally followed the path
 
 Seeing these ads come together was like watching the first spark of a much bigger fire. This is only the beginning, but I can already feel the momentum building.
 
-![diveinkid](//assets/img/diveinkid.png)
+![diveinkid](/assets/img/diveinkid.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---

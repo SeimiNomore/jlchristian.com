@@ -17,14 +17,14 @@ Would you like to expand this further or include additional links?
 
 
 
-![kc93splash](//assets/img/kc93splash.jpg)
+![kc93splash](/assets/img/kc93splash.jpg)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-![a4b kowloon](//assets/img/a4b_kowloon.png)
+![a4b kowloon](/assets/img/a4b_kowloon.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
