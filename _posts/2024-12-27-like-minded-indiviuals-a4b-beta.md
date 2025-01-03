@@ -39,7 +39,7 @@ Reflecting on this, I realize how much of my work thrives on connection: on find
 *[Learn more about Anime4Breakfast](#)*  
 
 
-![suckafree export](//assets/img/pixelcut-export2.png)
+![suckafree export](/assets/img/pixelcut-export2.png)
 **Bad News S, Free** Sucka Free First Year at Anime4Breakfast 2007 / Apr.
 
 --- 
