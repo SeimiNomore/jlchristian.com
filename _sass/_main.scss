@@ -280,15 +280,15 @@ h4 {
 }
 
 h5 {
-	font-size: 1.2rem;
-  font-weight: 700;
+	font-size: 1.0rem;
+  font-weight: 500;
 }
 
 h6 {
 	font-size: 1rem;
 }
 
-.index-h1 {
+.codexer {
   font-weight: 500;
   font-size: 1.0rem;
 }
@@ -315,8 +315,9 @@ b {
 	margin-bottom: 0.5rem;
 }
 
-.posts > h3 {
+.posts > h5 {
 	font-weight: 500;
+  font-size: 1.0rem;
 }
 
 .post ul {
@@ -340,7 +341,7 @@ b {
 	align-items: center;
 	display: flex;
 	justify-content: space-between;
-	margin-bottom: 1.20rem;
+	margin-bottom: 1.0rem;
 }
 
 .posts li a,
@@ -349,8 +350,8 @@ b {
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	font-weight: 585;
-  font-size: 12px;
+	font-weight: 500;
+  font-size: 1.0rem;
 }
 
 .posts li time,
