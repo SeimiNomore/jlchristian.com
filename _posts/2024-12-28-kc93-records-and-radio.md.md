@@ -31,4 +31,4 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-![KC93-NEW-REDO-BlK logo](/assets/img/KC93-NEW-REDO-BlK.png)
+![KC93-NEW-REDO-BlK logo](/assets/img/kc93-blk-logo.png)
