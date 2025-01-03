@@ -16,14 +16,14 @@ This idea also sparked the aesthetic of **Anime4Breakfast** itself. Instead of e
 
 Anime4Breakfast evolved into a broadcast-like network, where I conducted personal journalism on topics that bridged anime with music, fine art, fashion, and more. It became a space for exploring how these elements intersected and how they resonated with individuals from diverse career paths and walks of life who also shared a love for anime. The platform became a central sanctuary for like-minded people to gather, connect, and celebrate their passions.  
 
-![a4b-kowloon](//assets/img/a4b-kowloon.jpg) *Image Caption:*
+![a4b-kowloon](/assets/img/a4b-kowloon.jpg) *Image Caption:*
 *a4b! Kowloon - 2007 / Feb.*
 
 ---
 
 *Advertivment for the the first issue of the online-magazine, since the kc93 was the topic of the issue I wanted to apply the iconc airline flying over the famous Walled City of Kowloon, as since in the anime [Ghost in the Shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell)*
 
-![hongkng](//assets/img/gs-hongkng.png) 
+![hongkng](/assets/img/gs-hongkng.png) 
 *Image Caption: Scene from the anime (Ghost in the Shell)*
 
 To enhance the experience, I wanted the aesthetic to reflect upscale creativity. Inspired by the nighttime, late-night productivity, I infused elements of modern Japanese bathhouse and resort aesthetics with modern architecture, reminiscent of *[Wallpaper](https://en.wikipedia.org/wiki/Wallpaper_(magazine))* magazine. This contrast added sophistication and depth to the platform, making it more than just a fandom hub—it became a curated, elevated space where creativity and culture could thrive.  
