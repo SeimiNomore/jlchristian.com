@@ -150,19 +150,16 @@ body {
   letter-spacing: 0.10px;
 }
 
-.codex li a,
-.codex li div,
-.projects li a {
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-}
+
 
 .codex a {
   color: #544d6f;
   font-weight: 500;
   font-size: 1.0rem;
   text-decoration: none;
+  white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 a {
