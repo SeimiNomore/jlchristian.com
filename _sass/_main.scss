@@ -159,6 +159,10 @@ body {
   text-decoration: none;
 	overflow: hidden;
 	text-overflow: ellipsis;
+  align-items: center;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 1.20rem;
 }
 
 a {
