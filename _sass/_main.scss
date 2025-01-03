@@ -146,7 +146,6 @@ body {
 	line-height: 1.56;
   letter-spacing: 1.7;
 	color: var(--main-text-color);
-  font-weight: 200;
   letter-spacing: 0.10px;
 }
 
@@ -162,7 +161,7 @@ a {
 a:hover, a:focus {
   color: #493d60;
   background-color: #e8defd ;
-  font-weight: 386;
+  font-weight: 256;
   font-size: 1.0rem;
 }
 
@@ -254,41 +253,44 @@ h1 {
   
 	font-size: 2rem;
 	font-weight: bold;
-	margin-bottom: 1.5rem;
+	margin-bottom: 1.6rem;
 }
 
 h2,
 h3,
 h4,
 h5 {
-	font-weight: bold;
+	font-weight: 550;
 	margin-bottom: 1.5rem;
-	font-size: 2rem;
+	font-size: 1.6rem;
 }
 
 h2 {
-	font-size: 1.8rem;
-  font-weight: 600;
+	font-size: 1.6rem;
+  font-weight: 500;
 }
 
 h3 {
 	font-size: 1.6rem;
+  font-weight: 460;
 }
 
 h4 {
-	font-size: 1.4rem;
+	font-size: 1.3rem;
+  font-weight: 350;
 }
 
 h5 {
-	font-size: 1.2rem;
-  font-weight: 700;
+	font-size: 1.0rem;
+  font-weight: 300;
 }
 
 h6 {
-	font-size: 1rem;
+	font-size: 0.8rem;
+  font-weight: 250;
 }
 
-.codexer {
+.codex {
   font-weight: 500;
   font-size: 1.0rem;
 }
@@ -315,8 +317,9 @@ b {
 	margin-bottom: 0.5rem;
 }
 
-.posts > h3 {
+.posts > codex {
 	font-weight: 500;
+  font-size: 1.0rem;
 }
 
 .post ul {
@@ -340,7 +343,7 @@ b {
 	align-items: center;
 	display: flex;
 	justify-content: space-between;
-	margin-bottom: 1.20rem;
+	margin-bottom: 1.0rem;
 }
 
 .posts li a,
@@ -349,8 +352,8 @@ b {
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	font-weight: 585;
-  font-size: 12px;
+	font-weight: 500;
+  font-size: 1.0rem;
 }
 
 .posts li time,
