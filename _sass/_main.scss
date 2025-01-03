@@ -155,13 +155,15 @@ body {
 a {
 	color: var(--link-color);
 	text-decoration: var(--medium-text-color);
-  
+  font-weight: 500;
+  font-size: 1.0rem;
 }
 
-a:hover {
+a:hover, a:focus {
   color: #493d60;
   background-color: #e8defd ;
-  
+  font-weight: 386;
+  font-size: 1.0rem;
 }
 
 .post p {
@@ -271,29 +273,21 @@ h2 {
 
 h3 {
 	font-size: 1.6rem;
-  font-weight: 500;
 }
 
 h4 {
-	font-size: 1.3rem;
-  font-weight: 350;
+	font-size: 1.4rem;
 }
 
 h5 {
-	font-size: 1.0rem;
-  font-weight: 300;
+	font-size: 1.2rem;
+  font-weight: 700;
 }
 
 h6 {
-	font-size: 0.8rem;
-  font-weight: 250;
+	font-size: 1rem;
 }
 
-
-.codexer {
-  font-weight: 500;
-  font-size: 1.0rem;
-}
 
 section h1:first-child {
 	margin-top: 0;
@@ -317,9 +311,8 @@ b {
 	margin-bottom: 0.5rem;
 }
 
-.posts > h5 {
+.posts > h3 {
 	font-weight: 500;
-  font-size: 1.0rem;
 }
 
 .post ul {
@@ -343,7 +336,7 @@ b {
 	align-items: center;
 	display: flex;
 	justify-content: space-between;
-	margin-bottom: 1.0rem;
+	margin-bottom: 1.20rem;
 }
 
 .posts li a,
@@ -352,8 +345,8 @@ b {
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	font-weight: 500;
-  font-size: 1.0rem;
+	font-weight: 585;
+  font-size: 12px;
 }
 
 .posts li time,
