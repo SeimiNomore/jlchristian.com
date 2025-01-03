@@ -23,7 +23,7 @@ The aesthetic and mystery of **Anime4breakfast** had always been central to its 
 
 The journey toward discovering the brilliance of the Timothy brothers felt serendipitous, as though creativity itself had nudged me in their direction. It began with a series of engaging conversations with **Miles Timothy**, whose energy and artistic vision immediately struck a chord with me. In one such conversation, he introduced me to his brother, **Duval Timothy**, a multifaceted artist whose work carried a depth and texture that demanded attention.  
 
-I couldn’t help but feel that meeting these two was more than chance; it was an intersection of shared passions and mutual recognition of the potential in collaboration. Reflecting on their dynamic, I found myself imagining how their synergy could amplify a project I’d been cultivating for a while: **Anime4Breakfast**, my platform for creative exploration and innovation.  
+I couldn’t help but feel that meeting these two was more than chance; it was an intersection of shared s and mutual recognition of the potential in collaboration. Reflecting on their dynamic, I found myself imagining how their synergy could amplify a project I’d been cultivating for a while: **Anime4Breakfast**, my platform for creative exploration and innovation.  
 
 It was in those early discussions that the concept for the **Deval and Miles Timothy advertisement** began to take shape. It wasn’t just an advertisement—it was a showcase of artistry, a visual narrative of how creative minds inspire and enhance each other. I wanted to capture this moment, not just for them but for myself as a document of how connections like these fuel my own creative process.  
 
@@ -44,6 +44,6 @@ Reflecting on this, I realize how much of my work thrives on connection: on find
 
 --- 
 
-During this time in the development of Anime4Breakfast (A4B!), I came across so many people who genuinely appreciated the idea. It was both surprising and inspiring to find so many creatives who shared the same passion. One of those people was Sucka Free, a talented photographer originally from Florida who eventually made his way to New York.  
+During this time in the development of Anime4Breakfast (A4B!), I came across so many people who genuinely appreciated the idea. It was both surprising and inspiring to find so many creatives who shared the same . One of those people was Sucka Free, a talented photographer originally from Florida who eventually made his way to New York.  
 
 Our paths crossed at a pivotal moment when we were both focused on building our portfolios. It felt natural to collaborate, blending his photography with the aesthetic vision of A4B!. Together, we worked on several A4B! ads, each one helping to refine and elevate the brand’s style. These collaborations not only pushed the aesthetic forward but also reminded me how much creative energy can come from working with like-minded individuals.  
