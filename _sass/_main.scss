@@ -167,7 +167,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #544d6f;
+  color: #cbd5e0;
   font-weight: 486;
   font-size: 11px;
   background-color: #e8defd;
@@ -569,6 +569,8 @@ color: #333;
   .post-nav-item {
     border-bottom: 0;
     padding-bottom: 10px;
+    font-size: 8px;
+
 
     .post-title {
       color: var(--main-text-color);
@@ -590,7 +592,7 @@ color: #333;
     }
 
     width: 50%;
-    padding-top: 7.7px;
+    padding-top: 10px;
     text-decoration: none;
     box-sizing: border-box;
 
