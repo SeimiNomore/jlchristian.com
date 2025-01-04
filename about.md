@@ -61,10 +61,10 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 <br>
 
 --- 
- 
+
 <br>
 <br>
-![JLC-BETA](/assets/jlc-beta.png)
+![JLC-BETA](/assets/img/jlc-beta.png)
 <br>
 <br>
 <br>
