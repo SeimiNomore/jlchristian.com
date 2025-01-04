@@ -36,9 +36,10 @@ layout: default
         {% for post in site.posts %}
         <li>
 		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            <time datetime="{{ post.date | date_to_xmlschema }}">
-                { post.date | date: "%b %d, %Y %H:%M:%S" }}
-            </time>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%b %d, %Y at %I:%M %p" }}
+          </time>
+          
         </li>
         {% endfor %}
     </ul>
