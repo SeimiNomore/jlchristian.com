@@ -157,19 +157,31 @@ body {
   font-weight: 500;
   font-size: 1.1rem;
   text-decoration: none;
-  
-	
 }
+
+
 
 a {
 	color: var(--link-color);
 	text-decoration: var(--medium-text-color);
-  text-decoration: underline;
   font-weight: 646;
   font-size: 1.1rem;
 }
 
 a:hover, a:focus {
+  color: #493d60;
+  background-color: #e8defd ;
+  font-weight: 486;
+  font-size: 1.1rem;
+}
+
+.post a {
+  text-decoration: underline;
+  font-weight: 646;
+  font-size: 1.1rem;
+}
+
+.post a:hover, a:focus {
   color: #493d60;
   background-color: #e8defd ;
   font-weight: 486;
