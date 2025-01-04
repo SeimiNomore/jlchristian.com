@@ -63,7 +63,7 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 ---  
 <br>
 <br>
-![JLC-Recovered](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.comJLC-Recovered.png)
+![JLC-BETA](/assets/jlc-beta.png)
 <br>
 <br>
 <br>
