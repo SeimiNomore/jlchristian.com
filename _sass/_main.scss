@@ -150,12 +150,14 @@ body {
   letter-spacing: 0.10px;
 }
 
+
 .codex li {
-  display: flex
+  display: flex;
   align-items: center;
   justify-content: space-between;
 list-type: none;
 }
+
 .codex li a{
   color: #544d6f;
  font-weight: bold;
