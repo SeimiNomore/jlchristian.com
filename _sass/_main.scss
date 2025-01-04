@@ -150,13 +150,16 @@ body {
   letter-spacing: 0.10px;
 }
 
-
-
-.codex a {
+.codex li {
+  display: flex
+  align-items: center;
+  justify-content: space-between;
+list-type: none;
+}
+.codex li a{
   color: #544d6f;
-  font-weight: 630;
-  font-size: 11.6px;
-  text-decoration: none;
+ font-weight: bold;
+font-size:11.6px !important;
 }
 
 a {
@@ -374,6 +377,7 @@ b {
 	text-overflow: ellipsis;
 	font-weight: 585;
   font-size: 12px;
+  list-style: none;
 }
 
 .posts li time,
@@ -382,6 +386,7 @@ b {
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
   letter-spacing: 0.00rem;
+  list-style: none;
 }
 
 time {
