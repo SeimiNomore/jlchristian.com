@@ -157,7 +157,9 @@ body {
   align-items: center;
   justify-content: space-between;
   list-type: none;
-
+  white-space: nowrap; 
+  overflow: hidden;     
+  text-overflow: ellipsis; 
 }
 
 .codex li a {
