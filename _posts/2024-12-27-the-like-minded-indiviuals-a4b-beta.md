@@ -12,7 +12,7 @@ time: 12:09AM
 
 ---
 
-Kowloon was a place that I deeply appreciated. The fact that it was once considered a [world wonder](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_World) made it even more intriguing. I had been searching for a concept that would represent the music label **KC.93 RR / Records & Radio**. With many musicians expressing interest in collaborating and contributing to **[Anime4breakfast](https://en.wikipedia.org/wiki/Anime)**, I was often asked to create a label they could rally under. That inquiry eventually gave birth to **Kowloon City 93**.  
+Kowloon was a place that I deeply appreciated. The fact that it was once considered a **[world wonder](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_World)** made it even more intriguing. I had been searching for a concept that would represent the music label **KC.93 RR / Records & Radio**. With many musicians expressing interest in collaborating and contributing to **[Anime4breakfast](https://en.wikipedia.org/wiki/Anime)**, I was often asked to create a label they could rally under. That inquiry eventually gave birth to **Kowloon City 93**.  
 
 The aesthetic and mystery of **Anime4breakfast** had always been central to its appeal. When brainstorming for KC.93 RR, I sought something equally enigmatic. The inspiration came from the haunting allure of **[Gunkanjima Island](https://en.wikipedia.org/wiki/Hashima_Island)**, an abandoned island in Japan. However, it was the **[Walled City of Kowloon](https://en.wikipedia.org/wiki/Kowloon_Walled_City)** that truly embodied the ideal. Its dense, layered history and reputation as an urban labyrinth felt like the perfect fit for the label’s concept—an intricate and mysterious structure mirroring the ethos of the artists involved.
 
