@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KC.93 Records and Radio - Work with musicians  
+title: KC.93 - Earlier works  
 description: The Creation of KC.93
 summary: Developing advertisements for KC.93
 tags: logo development
