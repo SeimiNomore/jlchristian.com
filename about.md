@@ -58,11 +58,6 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 - Expanding my reach in the art world through partnerships, innovative concepts, and new media ventures. 
 
 <br>
-<br>
-
---- 
-
-<br>
 
 ![JLC-BETA](/assets/img/jlc-beta05.png)
 <br>
