@@ -4,7 +4,6 @@ title: A4B! - logo Dev Beta
 description: How the Anime4breakfast logo was developed
 summary: What elements created the idea of the (A4B!)
 tags: typography, logo development
-date:
 ---
 
 ![a4b-beta](/assets/img/a4b-beta.png)
