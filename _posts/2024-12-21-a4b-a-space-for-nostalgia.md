@@ -1,13 +1,13 @@
 ---
 layout: post
-title: A4B! - A Space for Nostalgia 
+title: A4B - A Space for Nostalgia 
 description: Adopting anime to a art collective.
 summary: Applying Nostalgia to a brand.
 tags: anime branding anime4breakfast 
 date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}"
 ---
  
- 
+
 *Written by J. L. Christian*  
 
 During the development phase of **Anime4Breakfast**, my goal was to create a platform that resonated deeply with my own creative process—rooted in nostalgia and inspired by the late-night hours when my ideas come to life. I wanted to channel this perspective into a shared space where like-minded individuals could gather, collaborate, and be inspired.  
