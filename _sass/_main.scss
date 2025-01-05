@@ -157,9 +157,11 @@ body {
   align-items: center;
   justify-content: space-between;
   list-type: none;
+  
   white-space: nowrap; 
   overflow: hidden;     
   text-overflow: ellipsis; 
+
 }
 
 .codex li a {
@@ -601,7 +603,7 @@ color: #333;
     }
 
     .nav-arrow {
-      font-size: 17px;
+      font-size: 13.3px;
       color: var(--main-text-color);
       margin-bottom: 3px;
 	    font-weight: bold;
