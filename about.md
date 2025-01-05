@@ -4,10 +4,11 @@ title: About Me
 
 description: I am a multidisciplinary artist whose professional journey spans art direction, 
  product development, creative projects, and character development. My career is built on adaptability, innovation, and collaboration across various creative fields. Through my work, I craft impactful visual narratives, develop distinctive concepts, and bring cohesive visions to life.
+
 ---
 
 <div class="flex-row-between">
-	<a href="{{ site.url }}{{ site.baseurl }}"><i class="fa fa-home" aria-hidden="true"></i> Home
+	<a href="{{ jlchristian.com }}{{ site.baseurl }}"><i class="fa fa-home" aria-hidden="true"></i> Home
 	</a>
 	
 
