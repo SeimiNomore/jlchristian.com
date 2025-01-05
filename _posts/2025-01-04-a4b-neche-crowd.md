@@ -4,6 +4,7 @@ title: A4B! - Niche Crowd
 description: How the Anime4breakfast logo was developed
 summary: What elements created the idea of the (A4B!)
 tags: art-diraction graphic-design
+time: 09:23PM
 ---
 
 ![](assets/img/a4b-nolis.png.png)
