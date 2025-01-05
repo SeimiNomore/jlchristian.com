@@ -4,7 +4,6 @@ title: KC.93 - Earlier works
 description: The Creation of KC.93
 summary: Developing advertisements for KC.93
 tags: logo development
-time: 5:23AM
 ---
 
 [KC.93](#) was developed as a dedicated space for the music curation I began to harvest. Working with a diverse range of talented individuals, I needed a platform that carried the same vibrant spirit as [anime4breakfast](#).  
