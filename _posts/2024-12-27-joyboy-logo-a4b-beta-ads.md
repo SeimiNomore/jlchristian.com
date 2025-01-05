@@ -4,7 +4,7 @@ title: JoyBoy - A4B! Logo
 description: This was the beginnning of it all the first ads for anime4breakfast!
 summary: going off of the **JoyBoy** logo for A4B!
 tags: logo, typography, logo development
-date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}"
+date: 'now'
 ---
 
 It all started with an idea—a fleeting spark fueled by my love for storytelling, design, and the culture of anime. I wanted to create something that felt personal, something that spoke to the creative spirit that has always driven me. Anime4Breakfast wasn’t just a name; it was a concept, a vision of bringing people together through a shared love of art, ideas, and expression.
