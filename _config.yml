@@ -39,6 +39,12 @@ permalink: pretty
 # url: "http://localhost:4000" # 
 # baseurl: "" # 
 
+---
+layout: post
+title: "New Post"
+date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}"
+---
+
 markdown:
 kramdown:
   input: GFM
