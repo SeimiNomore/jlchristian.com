@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A4B! - Collabration with Nolis
+title: A4B! - Nolis Collb.
 description: How the Anime4breakfast logo was developed
 summary: What elements created the idea of the (A4B!)
 tags: art-diraction graphic-design
