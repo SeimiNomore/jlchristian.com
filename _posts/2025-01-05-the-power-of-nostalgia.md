@@ -9,6 +9,8 @@ tags: anime branding anime4breakfast
 **The Power of Nostalgia in Visual Storytelling: 
 <br>
 A Personal Perspective on Creativity, Illustration, and Anime**
+<br>
+<br>
 
 In a world oversaturated with fleeting trends and fleeting attention spans, nostalgia has emerged as a quiet yet powerful force in visual storytelling. For me, as an artist deeply embedded in the crossroads of creativity, illustration, and anime, nostalgia is more than just a sentiment—it's a driving philosophy. It informs my work, connects me to my audience, and shapes the direction of my artistic journey.
 
