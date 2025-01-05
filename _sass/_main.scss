@@ -166,6 +166,10 @@ body {
  color: #544d6f;
  font-weight: 650;
  font-size:12px !important;
+ align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: .5rem;
 }
 
 a {
