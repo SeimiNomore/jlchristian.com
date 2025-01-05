@@ -1,6 +1,14 @@
+---
+layout: post
+title: A4B! - The Conception
+description: Adopting anime to a art collective.
+summary: Applying Nostalgia to a brand.
+tags: anime branding anime4breakfast 
+date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}"
+---
+
 Case study - anime4breakfast
 Conception / 2006 - 2011
-
 
 **The Conception and Development of Anime4Breakfast**  
 

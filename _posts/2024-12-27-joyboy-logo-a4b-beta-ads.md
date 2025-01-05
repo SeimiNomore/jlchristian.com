@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JoyBoy Logo A4B!
+title: JoyBoy - A4B! Logo
 description: This was the beginnning of it all the first ads for anime4breakfast!
 summary: going off of the **JoyBoy** logo for A4B!
 tags: logo, typography, logo development
