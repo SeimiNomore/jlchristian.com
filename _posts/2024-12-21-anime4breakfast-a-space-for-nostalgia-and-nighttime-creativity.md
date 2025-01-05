@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anime4Breakfast A Space for Nostalgia and Nighttime Creativity 
+title: Anime4Breakfast A Space for Nostalgia 
 description: Adopting anime to a art collective.
 summary: Applying Nostalgia to a brand.
 tags: anime branding anime4breakfast 
