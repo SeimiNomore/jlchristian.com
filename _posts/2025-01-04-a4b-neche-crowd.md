@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridging Creativity
+title: A4B! - Bridging Creativity
 description: My Collaboration with Nolis for Anime4Breakfast
 summary: What elements created the idea of the (A4B!)
 tags: art-diraction graphic-design
