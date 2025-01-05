@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A4B! - Bridging Creativity
+title: A4B! - Bridging Creativity and Anime  
 description: My Collaboration with Nolis for Anime4Breakfast
 summary: What elements created the idea of the (A4B!)
 tags: art-diraction graphic-design
@@ -30,6 +30,6 @@ These pieces evolved into a bold blend of design and mixed media, perfectly capt
 
 With Nolis’s photography providing the visual soul and my creative direction steering the narrative, we’ve built something that not only markets A4B: Issue 2 but also celebrates the culture and artistry anime represents. I’m excited to share this work with fans of anime and art alike. This is just the beginning.
 
-Our goal was to create something that feels fresh and avant-garde, like stumbling upon a hidden gem in the anime world. With Nolis’s striking photography as the visual backbone and my creative direction shaping the narrative, we’ve crafted a campaign that not only markets A4B: Issue 2 but also celebrates the artistry and culture of anime itself.
+Our goal was to create something that feels fresh and avant-garde, like stumbling upon a hidden gem in the anime world. With [Nolis](https://www.nolisanderson.com)’s striking photography as the visual backbone and my creative direction shaping the narrative, we’ve crafted a campaign that not only markets A4B: Issue 2 but also celebrates the artistry and culture of anime itself.
 
 This collaboration marks a new chapter for Anime4Breakfast, and I’m excited to share it with fans who appreciate the fusion of art and anime. Stay tuned—this is just the beginning.
