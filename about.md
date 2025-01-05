@@ -64,4 +64,4 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 <br>
 Warm Regards 
 <br>
-J.L. Christian
+### J.L. Christian
