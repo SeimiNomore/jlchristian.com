@@ -4,7 +4,7 @@ title: A4B - A Space for Nostalgia
 description: Adopting anime to a art collective.
 summary: Applying Nostalgia to a brand.
 tags: anime branding anime4breakfast 
-date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}"
+date: {{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}
 ---
  
 
