@@ -1,6 +1,6 @@
 ---
-layout: The Power of Nostalgia
-title: A4B! - The Conception
+layout: post
+title: The Power of Nostalgia
 description: Adopting anime to a art collective.
 summary: Applying Nostalgia to a brand.
 tags: anime branding anime4breakfast 
