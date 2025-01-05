@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About Me
 
 description: I am a multidisciplinary artist whose professional journey spans art direction, 
@@ -7,7 +7,7 @@ description: I am a multidisciplinary artist whose professional journey spans ar
 ---
 
 <div class="flex-row-between">
-	<a href="{{ https://jlchristian.com}}{{/idex}}"><i class="fa fa-home" aria-hidden="true"></i> Home
+	<a href="{{ https://jlchristian.com}}{{ site.baseurl }}"><i class="fa fa-home" aria-hidden="true"></i> Home
 	</a>
 	
 
