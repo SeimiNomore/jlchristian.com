@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A4B! and like-minded individuals
+title: A4B! and like-minds
 description: The Beginning of the Memebers and collebrations
 summary: Developing advertisements for A4B!
 tags: typography logo development
