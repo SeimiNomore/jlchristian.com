@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A4B! - Created for a Niche Crowd
+title: A4B! - Collabration with Nolis
 description: How the Anime4breakfast logo was developed
 summary: What elements created the idea of the (A4B!)
 tags: art-diraction graphic-design
