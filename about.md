@@ -7,7 +7,7 @@ description: I am a multidisciplinary artist whose professional journey spans ar
 ---
 
 <div class="flex-row-between">
-	<a href="{{ https://jlchristian.com}}{{/about}}"><i class="fa fa-home" aria-hidden="true"></i> Home
+	<a href="{{ https://jlchristian.com}}{{}}"><i class="fa fa-home" aria-hidden="true"></i> Home
 	</a>
 	
 
