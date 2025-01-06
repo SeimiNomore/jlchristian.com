@@ -10,10 +10,7 @@ tags: logo development
 
 KC.93 bridges the worlds of sound, creativity, and collaboration, serving as a digital home for artists, curators, and enthusiasts to come together and celebrate music.  
 
----  
-
-Would you like to expand this further or include additional links?
-
+<br>
 
 
 ![kc93splash](/assets/img/kc93splash.jpg)
@@ -23,7 +20,8 @@ Would you like to expand this further or include additional links?
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-![a4b kowloon](/assets/img/a4b_kowloon.png)
+![a4b kowloon](/assets/img/a4b_kowloon.png              
+)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
