@@ -16,8 +16,11 @@ I found myself in the midst of a creative awakening, coming to terms with my ove
 
 The goal was to create a visual language that felt elevated yet approachable, balancing the essence of subculture with the allure of refinement. By pulling inspiration from cinematic tones, minimalist design, and an overall air of elegance, I aimed to redefine how anime and manga could be perceived. This wasn’t about erasing their identity but rather celebrating their artistry in a way that transcends stereotypes.
 
+<br>
+
 ![bmw2](/assets/img/bmw2.png)
 
+**The Luminous Edge of Elegance**
 
 This photograph immediately sets the tone with a cinematic warmth. The rich amber glow evokes a sense of intimacy, sophistication, and intrigue. A figure lounges confidently, the sleek silhouette of legs and the subtle shimmer of heels inviting the viewer into a private, curated world. The glass table adds a layer of transparency—both literally and metaphorically—mirroring the openness I aim to bring to the subculture.
 
