@@ -6,7 +6,6 @@ summary: Applying Nostalgia to a brand.
 tags: anime branding anime4breakfast 
 ---
 
-
 ![bmw1](/assets/img/bmw1.png)
 
 **Approachable Visuals, Connecting with the Elevated Perspective**
