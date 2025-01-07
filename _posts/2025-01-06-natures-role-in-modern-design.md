@@ -3,7 +3,7 @@ layout: post
 title: Nature’s Role in Modern Design
 description: Bridging Organic Inspiration with Creative Innovation
 summary: How Nature help Me Re-think my Creative Process
-tags: art-diraction graphic-design
+tags: art-diraction art-direction journal 
 ---
 
 ### Nature’s Role in Modern Design: How It Shapes My Artistic Vision  
