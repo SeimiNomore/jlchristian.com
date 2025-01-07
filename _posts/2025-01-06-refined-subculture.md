@@ -46,8 +46,6 @@ In stark contrast to the warm and blurred imagery, this photograph is all about 
 
 For this campaign, this image represents an invitation. anime4breakfast doesn’t just celebrate anime—it redefines how it is seen, discussed, and engaged with in sophisticated spaces. This is the bridge between the nostalgic comfort of the subculture and the forward-thinking vision of a refined, inclusive community.
 
-<br>
-
 **The Synthesis**
 
 These images, when woven together, tell a cohesive story of transformation. They challenge stereotypes, urging viewers to see anime and manga not just as entertainment but as an art form capable of fitting seamlessly into the lives of professionals, creatives, and cultural enthusiasts.
