@@ -11,7 +11,7 @@ tags: logo, typography, logo development
   Your browser does not support the video tag.
 </video>
 
-![jlc-dev-007-2025-01-11](assets/img/jlc-dev-007-2025-01-11.png)
+![jlc-dev-007-2025-01-11](/assets/img/jlc-dev-007-2025-01-11.png)
 
 
 ![jlc-logo-005-2025-01-11](/assets/img/jlc-logo-005-2025-01-11.png)
