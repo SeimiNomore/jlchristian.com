@@ -19,6 +19,7 @@ The foundation of the JLC logo rests on three simple letters: "J," "L," and "C."
   Your browser does not support the video tag.
 </video>
 
+<br>
 
 **The Creative Process**
 
