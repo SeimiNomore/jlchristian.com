@@ -1,11 +1,10 @@
 ---
 layout: post
-title: JoyBoy - A4B! Logo
+title: JoyBoy Logo A4B! Beta Advertisement 
 description: This was the beginnning of it all the first ads for anime4breakfast!
 summary: going off of the **JoyBoy** logo for A4B!
 tags: logo, typography, logo development
 ---
-
 
 It all started with an idea—a fleeting spark fueled by my love for storytelling, design, and the culture of anime. I wanted to create something that felt personal, something that spoke to the creative spirit that has always driven me. Anime4Breakfast wasn’t just a name; it was a concept, a vision of bringing people together through a shared love of art, ideas, and expression.
 
@@ -22,7 +21,7 @@ Designing the ads felt almost effortless, as if they naturally followed the path
 
 Seeing these ads come together was like watching the first spark of a much bigger fire. This is only the beginning, but I can already feel the momentum building.
 
-![diveinekids-a4b.png](/assets/img/divinekids-a4b.png)
+![diveinkids-a4b.png ](/assets/img/diveinkids-a4b.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
