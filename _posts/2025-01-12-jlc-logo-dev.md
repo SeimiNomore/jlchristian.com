@@ -19,6 +19,7 @@ The foundation of the JLC logo rests on three simple letters: "J," "L," and "C."
   Your browser does not support the video tag.
 </video>
 
+
 **The Creative Process**
 
 The initial phase was marked by exploration. I experimented with countless typefaces, playing with proportions, angles, and spacing. Some designs felt too rigid; others lacked cohesion. The process became a delicate dance of finding harmony between the letters. I scrutinized every curve and line, searching for ways to unify the "C" with the vertical presence of the "J" and "L." Negative space, often overlooked, became a crucial element, adding balance and clarity to the design.
