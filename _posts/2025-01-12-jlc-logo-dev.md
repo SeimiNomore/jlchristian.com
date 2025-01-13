@@ -6,12 +6,12 @@ summary: JLC logo for brand identity and social media.
 tags: logo, typography, logo development
 ---
 
-<video controls width="640" height="360">
+<video controls width="540" height="360">
   <source src="/assets/videos/jlc-logo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-![jlc-logo-002-2025-01-11](/assets/img/jlc-logo-002-2025-01-11.png)
+![jlc-dev-007-2025-01-11](/assets/img/jlc-dev-007-2025-01-11.png)
 
 
 ![jlc-logo-005-2025-01-11](/assets/img/jlc-logo-005-2025-01-11.png)
@@ -21,3 +21,5 @@ tags: logo, typography, logo development
 
 
 ![jlc-logo-006-2025-01-11](/assets/img/jlc-logo-006-2025-01-11.png)
+
+
