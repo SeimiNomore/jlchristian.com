@@ -10,3 +10,14 @@ tags: logo, typography, logo development
   <source src="/assets/videos/jlc-logo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+![jlc-logo-002-2025-01-11](/assets/img/jlc-logo-002-2025-01-11.png)
+
+
+![jlc-logo-005-2025-01-11](/assets/img/jlc-logo-005-2025-01-11.png)
+
+
+![jlc-logo-004-2025-01-11](/assets/img/jlc-logo-004-2025-01-11.png)
+
+
+![jlc-logo-006-2025-01-11](/assets/img/jlc-logo-006-2025-01-11.png)
