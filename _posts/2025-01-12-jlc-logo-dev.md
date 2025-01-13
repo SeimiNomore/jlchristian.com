@@ -14,10 +14,13 @@ Crafting the JLC logo was more than a design project; it was a journey of self-d
 
 The foundation of the JLC logo rests on three simple letters: "J," "L," and "C." These initials hold deep personal meaning, embodying my name and artistic vision. From the beginning, I wanted a logo that exuded elegance, modernity, and timelessness while remaining uniquely mine. Serif typefaces, with their balance of tradition and strength, immediately resonated with me as the visual language I wanted to explore.
 
-<video controls width="526" height="360">
-  <source src="/assets/videos/jlc-logo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div style="max-width: 100%; height: auto; margin: auto;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="/assets/videos/jlc-logo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 <br>
 
 **The Creative Process**
