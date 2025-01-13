@@ -7,6 +7,6 @@ tags: logo, typography, logo development
 ---
 
 <video controls width="640" height="360">
-  <source src="assets/videos/jlc-logo.mp4" type="video/mp4">
+  <source src="assets/videos/2025-01-12-jlc-logo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
