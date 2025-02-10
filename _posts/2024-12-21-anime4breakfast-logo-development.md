@@ -6,6 +6,7 @@ summary: What elements created the idea of the (A4B!)
 tags: typography logo development
 ---
 
+
 ![a4b-beta](/assets/img/a4b-beta.png)
 
 A4B! logo **(Draft Development)** for 2006 - 2007 
