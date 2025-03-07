@@ -12,7 +12,7 @@ In the wake of nature’s indomitable force—the 7.1 earthquake that shook Japa
 ![mdnk-for-japan-banner1.jpg](/assets/img/mdnk-for-japan.jpg)
 **Vision and Context**  
 Inspired by the urgency to aid Japan during a time of immense loss, the project embraced the ethos of collective creativity. Every contribution—be it a stroke of digital illustration, a reverberating musical note, or an experimental visual narrative—was curated with the intent of capturing Japan’s enduring spirit. This initiative wasn’t merely about raising funds; it was about chronicling resilience and inspiring communal healing through art.
-
+![helpjapan7](/assets/img/helpjapan7.jpg)
 **Collaborative Synergy**  
 Working alongside global givens and a diverse roster of artists, the project became a living testament to the power of artistic collaboration. The collective’s multidisciplinary approach merged genres and mediums, creating a seamless dialogue between sound, image, and emotion. The digital compilation reflects this symbiotic partnership, where every artist’s unique voice converged to form a unified call for support—a true celebration of unity in diversity.
 
@@ -21,7 +21,7 @@ The compilation’s format itself serves as an archive, preserving the ephemeral
 
 **Art as Activism and Legacy**  
 At its core, this initiative redefines art as both activism and remembrance. It is a declaration that beauty can emerge from devastation and that creativity can serve as a beacon of recovery. The digital compilation not only raises crucial funds for Japan’s continued recovery efforts but also forges an enduring legacy—a reminder that in the face of nature’s might, the human spirit, when united through art, can heal, inspire, and transcend.
-
+![gg-white-overorange-pixel-1200](/assets/img/gg-white-overorange-pixel-1200.png)
 This body of work, born from Midnight Kids Academy’s art direction, is a vibrant, living mosaic—a digital testament to the resilient heartbeat of Japan and the global community’s commitment to stand together in the pursuit of hope and restoration.
 
 
