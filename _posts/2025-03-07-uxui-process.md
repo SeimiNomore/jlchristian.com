@@ -8,7 +8,9 @@ tags: gumballarcade figma branding development creativity recorded inspiration U
 
 **Developing the Gumball Arcade site** in Figma was a deep dive into UX/UI, balancing visual appeal with seamless functionality. From the start, I mapped out different pages, considering how users would navigate the site and interact with its features. The goal was to create an experience that felt intuitive yet exclusive—something that didn’t just display information but engaged visitors in the mystique of Gumball Arcade.
 
-
+<div style="max-width: 100%; height: auto; margin: auto;">
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/JPry98PvvkYjxDCprW7LF1/GUMBALL-ARCADE-site?page-id=0%3A1&node-id=1-2&p=f&viewport=526%2C495%2C0.02&scaling=min-zoom&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+</div>
 
 **UX Flow & Page Interactions**
 
